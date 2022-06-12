@@ -1,0 +1,71 @@
+.user-Item-list {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid #94a3b8;
+  min-width: 330px;
+  margin: 10px;
+  padding: 12px;
+  border-radius: 10px;
+}
+.user-items-container {
+  display: flex;
+  align-items: center;
+}
+.user-details {
+  margin-left: 15px;
+}
+.user-name {
+  color: #fff;
+  font-family: 'roboto';
+  font-weight: 500;
+}
+.delete-button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+}
+.delete-icon {
+  width: 26px;
+  height: 24px;
+}
+
+/*--initialBgColor----*/
+
+.color1 {
+  background-color: #f59e0b;
+}
+.color2 {
+  background-color: #10b981;
+}
+.color3 {
+  background-color: #f97316;
+}
+.color4 {
+  background-color: #14b8a6;
+}
+.color5 {
+  background-color: #b91c1c;
+}
+.color6 {
+  background-color: #ffffff;
+}
+.color7 {
+  background-color: #0ea5e9;
+}
+.color8 {
+  background-color: #64748b;
+}
+
+.initial {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 16px;
+  margin: 0;
+}
+.star-image {
+  width: 100px;
+  height: 20px;
+}
